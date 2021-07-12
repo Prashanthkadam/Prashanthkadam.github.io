@@ -96,3 +96,43 @@
 </body>
 
 </html>
+
+/************************** TAG SELECTOR ******************/
+
+
+body{
+  background-color: #B6C9F0;
+}
+h1{
+  font-style:normal;
+  font-size: 125px;
+  color:black;
+}
+
+p{
+  color:white;
+}
+
+
+/************************** CLASS  SELECTOR ******************/
+
+
+
+.milf{
+  background-color:yellow;
+  background-size: 100px;
+}
+
+.PANDIT{
+background-color:red;
+background-size: 900px;
+}
+
+
+.me{
+
+  background-color:red;
+background-size:100px;
+}
+/************************** ID  SELECTOR ******************/
+
